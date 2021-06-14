@@ -10,6 +10,10 @@
 
 ![](https://images.velog.io/images/elena_park/post/09c32465-1e57-4c15-9ce9-6af103b0010b/%EA%B7%B8%EB%A6%AC%ED%8C%85%EB%AA%B0%20original%20main.png)
 
+## 프로젝트 전체 구현 영상 
+
+https://www.youtube.com/watch?v=N_5u4KgBaC0
+
 ## 개발 기간
 
 - 21.04.12 ~ 21.04.23 (11일)
